@@ -24,7 +24,7 @@ const SearchBar = () => {
       onSubmit={handleSubmit}
       sx={{
         borderRadius: 16,
-        padding: 1,
+        padding: "5px 10px",
         border: "1px solid #e3e3e3",
         boxShadow: "none",
       }}
